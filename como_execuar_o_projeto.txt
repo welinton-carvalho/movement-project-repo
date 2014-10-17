@@ -1,0 +1,31 @@
+Configurações do Projeto:
+
+Linguagem: Java
+Plataforma: SE
+Versão Java: 1.7
+IDE: Eclipse
+
+
+
+
+
+
+Para a correta execução desse projeto são necessárias as seguintes ferramentas:
+
+
+- Eclipse IDE for Java Developers;
+- JVM e JRE devidamente configuradas.
+
+
+
+
+
+
+Detalhes de excuçao da aplicação:
+
+- O arquivo de carga inicial está presente nessa pasta e com cabeçalho (Primeira linha), antes de usar junto a aplicação retirar essa linha.
+- É necessário ter o arquivo de carga de dados "movimentacoes.txt" na raiz do seu disco C "C:/movimentacoes.txt" e sem o cabeçalho "Filial Periodo Total".
+- O arquivo de carga inicial "C:/movimentacoes.txt" está presente nessa pasta e com cabeçalho (Primeira linha), antes de usar junto a aplicação retirar essa linha.
+- A aplicação possui uma interface gráfica Swing que gera os principais resultados em tela e relatórios complementares em linha de comando por System.out.
+
+- Caso você ja tenha o arquivo de dados na localização correta, você tambem pode rodar o movement-project.jar presente nessa pasta que a aplicação iniciará.
